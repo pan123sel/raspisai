@@ -14,4 +14,6 @@ Open the raspberry pi's command shell, and type `mkdir raspisaiproject` to creat
 ######
 [catalog](https://github.com/pan123sel/raspisai/sixescatalog)
 ######
-[all the emojis](https://github.com/pan123sel/raspisai/blob/main/sixescatalog/emojirecord)
+[all the latest emojis](https://github.com/pan123sel/raspisai/blob/main/sixescatalog/emojirecord)
+######
+[emoji version folder](https://github.com/pan123sel/raspisai/tree/main/sixescatalog/emoji)
