@@ -1,4 +1,4 @@
-#Emojis
+# Emojis
 ### Content
 [Version 1.0](https://github.com/pan123sel/raspisai/blob/main/sixescatalog/emoji/v1)
 ######
@@ -14,5 +14,5 @@
 ######
 [Version 12.0](https://github.com/pan123sel/raspisai/blob/main/sixescatalog/emoji/v12)
 ######
-[Version 13.0](######
-[Version 11.0](https://github.com/pan123sel/raspisai/blob/main/sixescatalog/emojirecord))
+[Version 13.0](https://github.com/pan123sel/raspisai/blob/main/sixescatalog/emojirecord)
+
